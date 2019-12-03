@@ -3,7 +3,7 @@
 """Tests for `robo_croupier` package."""
 import pytest
 
-from robo_croupier import robo_croupier
+from robo_croupier import __main__
 
 
 @pytest.fixture
